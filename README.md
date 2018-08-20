@@ -1,4 +1,5 @@
 # Lista de jogos
 
-* [Gunbound]
-* [PUBG]
+* LOL
+* The sims
+* CS
